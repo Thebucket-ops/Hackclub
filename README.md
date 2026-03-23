@@ -1,4 +1,4 @@
-#BUCKPAD
+# BUCKPAD
 
 hackpad for hackclub blueprint
 The buckpad is a 11 key macropad with a rotary encoder and a OLED display, and uses QMK firmware.
@@ -12,7 +12,7 @@ Features:
 
 ![assembled keypad image](images/assembly.png)
 
-##PCB
+## PCB
 here is the PCB (first time ever i do one!), the silkscreen is imported from a Figma image.
 ![PCB](images/pcb.png)
 
