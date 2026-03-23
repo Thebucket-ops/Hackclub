@@ -31,6 +31,7 @@ This was my first time working with Fusion and, not gonna lie, i had a ton of fu
 This hackapd uses QMK firmware:
 * the rotary encoder changes volume. press to mute
 * the other 11 keys currently act as macros (thought i plan on implementing VIA to dynamically change them)
+* I plan to set the oled as an audio visualizer once i get my hands on it.
 
 ## BOM
 
