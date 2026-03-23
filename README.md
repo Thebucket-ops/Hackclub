@@ -16,7 +16,7 @@ Features:
 here is the PCB (first time ever i do one!), the silkscreen is imported from a Figma image.
 ![PCB](images/pcb.png)
 
-PCB design (I added a filling so it doesnt really look that well, yikes)
+PCB design (I added a filling so its a bit messy, yikes)
 
 ![Schematic](images/schematic.png)
 
